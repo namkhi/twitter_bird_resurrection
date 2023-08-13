@@ -1,0 +1,9 @@
+# Log files
+*.log
+
+# Directories that might be created by editors or OS
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.idea/
