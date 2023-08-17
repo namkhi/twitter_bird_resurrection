@@ -1,2 +1,4 @@
 # Twitter Bird Resurrection
-Bring twitter bird home
+Bring Twitter bird home
+
+A Google Chrome extension that replaces the X logo with the old Twitter logo
